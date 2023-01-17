@@ -36,7 +36,7 @@ public class App {
     	 
     	
     	
-    			if(a<nb) {
+    			if(a<nb) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
     			
     			System.out.println("+"); }
     		
