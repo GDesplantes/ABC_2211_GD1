@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author GDesplantes
+ *
+ */
+module ExoAlgo {
+}
