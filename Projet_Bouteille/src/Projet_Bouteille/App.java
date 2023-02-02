@@ -19,7 +19,11 @@ public class App {
 			 boolean ferme2=b.fermer();
 			 
 			 
-			 boolean vider = b.vider(0.80);
+	
+			 boolean vider = b.vider(0.50);
+			 
+			 boolean ouvrir = b.ouvrir();
+			 
 			 boolean vider3 = b.vider(0.75);
 			 
 			 boolean remplir5=b.remplir(1);
@@ -28,8 +32,8 @@ public class App {
 			 boolean vide3 =b.vidertout();
 			 boolean vide4 =b.vidertout();
 			 
-			 boolean remplir =b.remplir(0.15);
-			 boolean remplir2=b.remplir(50);
+			 boolean remplir =b.remplir(0.95);
+			 boolean remplir2=b.remplir(0.20);
 			 
 			 boolean remplirT=b.remplirTout();
 			 boolean remplirT2=b.remplirTout();
