@@ -7,7 +7,7 @@ public class App {
 	
 	public static void main(String[] args) {
 	
-		ArrayList<String> controller = new ArrayList<String>();
+		;ArrayList<String> controller = new ArrayList<String>();
 		controller.add("Avancer");
 		controller.add("Reculer");
 		controller.add("Pivoter a Droite");

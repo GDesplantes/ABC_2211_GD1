@@ -2,18 +2,17 @@ package Wall_E;
 
 import java.util.Scanner;
 
+import Wall_E.Wall_E.deplacement;
+
 public class Controller {
+	
 
-
-public String mouvement;
-
-public String mouvement() {
-	mouvement=deplacer();
-}
-	public static void main(String[] args) {
-		
-		Scanner sc = new Scanner(System.in);
-
-	}
+	
+		public String deplacement2(deplacement move) {
+			
+		}
+	
 
 }
+
+

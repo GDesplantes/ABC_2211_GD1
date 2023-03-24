@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <Price>
+<entrées>
+   <entrée1>
+    Salade de pomme de terre</entrée1> 
+        <entrée2>
+         plateau de charcuteries à partager</entrée2>
+        </entrées>
+<Plats>
+<plat1>Cheeseburger frites</plat1>
+<prix>
+    500€
+</prix>
+
+<plat2>Lasagne</plat2>
+<price>
+    250€
+</price>
+<plat3> Gratin dauphinois</plat3>
+<prix>
+    2€
+</prix>
+
+
+
+</Plats>
+
+<Desserts>
+<dessert1>
+Flan
+
+</dessert1>
+
+<dessert2>
+
+    moelleux au chocolat
+
+</dessert2>
+
+
+</Desserts>
+
+
+</Price>
+</menu>
