@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Etudiant>
+<listeEleve>
+
+    <eleve>Corinne Roger</eleve>
+    <eleve>Charlotte Klein-Fournier</eleve>
+    <eleve>Margaret Jacquot</eleve>
+        <mailEtudiant mailCorinne="CROGER@fakeadress.com"></mailEtudiant> 
+        <mailEtudiant mailCharlotte="CKLEINFOURNIER@fakeadress.com"></mailEtudiant>
+        <mailEtudiant mailMargeret="MJACQUOT@fakeadress.com"></mailEtudiant>
+
+</listeEleve>
+
+<formation>
+    <name>
+        ABCDEV
+    </name>
+    <durée mois="5"></durée>
+    <date arrivé="12/01/2023" depart="12/06/2023"></date>
+
+</formation>
+
+
+</Etudiant>

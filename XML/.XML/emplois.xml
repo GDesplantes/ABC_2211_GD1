@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<offreEmploie>
+DevPHP
+DevJAVA
+DevNodeJS
+
+    <localisation 
+    PHP="Paris" JAVA="Mulhouse" NodeJS="Toulouse">
+    </localisation>
+
+        <DescPoste>
+            <DescPHP task="Rédaction d'applications PHP propres et rapides selon des normes élevées, de façon opportune et évolutive
+            Élaboration de spécifications détaillées
+            Dépannage, test et gestion des bases de données et des logiciels de produit fondamentaux">
+
+            </DescPHP>
+            <DescJAVA task="Conception et développement d'applications à faible latence et haut volume pour les systèmes stratégiques, tout en veillant à une disponibilité et à des performances supérieures
+            Contribution à toutes les phases du cycle de développement
+            Rédaction de code efficace et bien conçu, testable"></DescJAVA>
+
+            <DescNodeJS task=""></DescNodeJS>
+        </DescPoste>
+
+        <DateDebut PHP="15/08/2023" JAVA="17/05/2023" NodeJS="28/11/2023"></DateDebut>
+
+        <SalAnnuel PHP="40k/an" JAVA="45k/an" NodeJS="35.7k/an"></SalAnnuel>
+        <contact
+            contact="EntrepriseTropBi1@gfaim.co">
+        </contact>
+
+
+</offreEmploie>

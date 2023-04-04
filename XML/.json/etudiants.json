@@ -1,0 +1,43 @@
+{
+
+    "etudiants":"LISTE etudiants",
+        "nom": ["María Luisa Santiago",
+    "Fabio Rosell Cortes",
+    "Candelario Chucho Marcos Niño",
+    "Piedad Osuna-Solana",
+    "Odalys del Molins"
+
+        ],
+        "date De Naissance":["María Luisa Santiago  (15/07/1997)",
+        "Fabio Rosell Cortes(01/11/1992)",
+        "Candelario Chucho Marcos Niño(25/08/2000)",
+        "Piedad Osuna-Solana(17/04/1999)",
+        "Odalys del Molins(12/02/2002)"
+
+        ],
+        "Mail":[
+            "María_Luisa_Santiago@crm.book",
+            "Fabio_Rosell_Cortes@crm.book","Candelario_Chucho_Marcos_Niño@crm.book",
+            "Piedad_Osuna_Solana@crm.book",
+            "Odalys_del_Molins@crm.book"
+        ],
+
+
+"formation":"ABCDev",
+    "infos":{
+        "date":["12/01/2024",
+        "16/06/2024"
+    ],
+    
+    "durée": "5 mois"
+    }
+        
+
+
+        
+
+
+
+
+}
+

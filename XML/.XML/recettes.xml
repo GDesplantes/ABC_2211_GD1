@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plat> Crêpes Bretonnes
+
+    <ustensiles>
+
+        1 saladier,
+        1 fouet,
+        1 poêle
+    </ustensiles>
+
+    <ingredients>
+        Farine,
+        beurre,
+        lait,
+        Gros oeuf,
+        cuillère à soupe de sucre en poudre,
+        pincée de sel 
+    </ingredients>
+
+    <dose Farine="250g"
+        beurre="50g"
+        lait="50cl"
+        oeuf="4"
+        sucre="2"
+        sel="1">
+
+
+    </dose>
+    
+
+</plat>

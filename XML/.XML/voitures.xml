@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<voitures>
+    <marque>OpelCorsa</marque>
+    <marque>OpelCrossland</marque>
+    <marque>OpelGrandLand</marque>
+    <marque>OpelAstra</marque>
+
+
+<prix OpelCorsa="14 900€"></prix> <prix OpelCrossland="23 000€" ></prix>  <prix OpelGrandLand="29 9000€" ></prix> <prix OpelAstra="25 700€"></prix>
+
+
+
+</voitures>
